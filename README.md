@@ -1,3 +1,7 @@
+这里fork过来，是想进行一个说明，这个仓库是在一个公众号看到的，只要是支持很多分割的办法和主干网络，就fork过来了
+简单使用介绍的[地址](https://mp.weixin.qq.com/s/aVoQ7yckOh9ewBUXIuTVJA)。
+
+
 # Introduction
 SSSegmentation is an open source strongly supervised semantic segmentation toolbox based on PyTorch.
 You can star this repository to keep track of the project if it's helpful for you, thank you for your support.
